@@ -51,7 +51,7 @@ A compact **ESP32-based Flipper Zero alternative** with a display, buttons, buzz
 - Button inputs (Up, Ok, Down)  
 - Battery & Battery protection circuit (Recommended, for convenience)
 
-! Every pin definition is [Here](https://github.com/DevEclipse1/ESP-Pocket-Puter/blob/main/src/global.hpp) !
+! Every pin definition is [Here](https://github.com/Haidang9912333/Deauther-v3-by-haidang/blob/main/src/global.hpp) !
 
 ---
 
@@ -63,7 +63,7 @@ A compact **ESP32-based Flipper Zero alternative** with a display, buttons, buzz
    cd ESP-Pocket-Puter
    ```
 2. Install platformio for vscode if you havent already
-3. Change pinouts if needed, see [The global.hpp for pin defs](https://github.com/DevEclipse1/ESP-Pocket-Puter/blob/main/src/global.hpp)
+3. Change pinouts if needed, see [The global.hpp for pin defs](https://github.com/Haidang9912333/Deauther-v3-by-haidang/blob/main/src/global.hpp)
 4. Change platformio.ini if needed (if you are using a different board)
 5. Upload!
 
