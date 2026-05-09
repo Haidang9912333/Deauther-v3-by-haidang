@@ -1,4 +1,4 @@
-# ESP Pocket Puter
+# Deuather v3
 
 A compact **ESP32-based Flipper Zero alternative** with a display, buttons, buzzer, infrared transmitter, and CC1101 RF support.
 
