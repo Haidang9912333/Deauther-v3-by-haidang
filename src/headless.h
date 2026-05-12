@@ -22,8 +22,8 @@ void Headless_Thread(void *pvParameters)
 void Headless_Setup()
 {
     WiFi.mode(WIFI_AP_STA);
-    WiFi.softAP("Pocket Puter", "deveclipse");
-    MDNS.begin("pocketputer");
+    WiFi.softAP("Deauther by h..dan.", "deautherbyhaidang");
+    MDNS.begin("deauther");
 
     server.on("/", HTTP_GET, [](AsyncWebServerRequest *request) {
         request->send_P(200, "text/html", R"rawliteral(
